@@ -15,4 +15,4 @@ Work Day Scheduler
 
 ## URL Links:
 * GitHub URL: https://github.com/Fredbian/MONU-FSF-Module5_Challenge-Work-Day-Scheduler 
-* Deployed URL: 
+* Deployed URL: https://fredbian.github.io/MONU-FSF-Module5_Challenge-Work-Day-Scheduler/
