@@ -9,9 +9,9 @@ Work Day Scheduler
 * User can click into a time block and enter an event.
 * When click the save button for that time block, the text for event will be saved in local storage, when refresh the page, the saved events prersist.
 ## Screenshot:
-*
-*
-*
+*![alt text]
+*![alt text]
+*![alt text]
 
 ## URL Links:
 * GitHub URL: 
